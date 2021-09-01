@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![A confederacy of dunces (291) - John Kennedy Toole.jpg]({{site.baseurl}}/_posts/A confederacy of dunces (291) - John Kennedy Toole.jpg)
 ## A New Post
