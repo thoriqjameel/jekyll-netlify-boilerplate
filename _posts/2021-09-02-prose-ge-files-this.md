@@ -1,5 +1,8 @@
 ---
 published: false
+title: SDsDSDSDSDSD
+author: john_doe
+date: 2021-09-02 02:09:11
 ---
 ## A New Post
 
